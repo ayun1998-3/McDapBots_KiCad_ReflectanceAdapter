@@ -2995,7 +2995,7 @@
 		)
 		(uuid "581cdda8-9844-4d3d-991f-d79032e9971a")
 	)
-	(label "SCL"
+	(label "SDA"
 		(at 119.38 77.47 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3259,7 +3259,7 @@
 		)
 		(uuid "f2ff5be5-c1fd-49ce-9267-b9126d6de8b5")
 	)
-	(label "SDA"
+	(label "SCL"
 		(at 119.38 80.01 0)
 		(fields_autoplaced yes)
 		(effects

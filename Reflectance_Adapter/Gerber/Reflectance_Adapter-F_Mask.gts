@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
-%TF.CreationDate,2025-10-15T10:59:08-04:00*%
+%TF.CreationDate,2025-12-01T14:19:42-05:00*%
 %TF.ProjectId,Reflectance_Adapter,5265666c-6563-4746-916e-63655f416461,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.7) date 2025-10-15 10:59:08*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2025-12-01 14:19:42*
 %MOMM*%
 %LPD*%
 G01*
