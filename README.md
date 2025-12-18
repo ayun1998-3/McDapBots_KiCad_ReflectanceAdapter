@@ -21,14 +21,17 @@ This repository contains a KiCad project file for the reflectance sensor adapter
 the robot's main PCB. The reflectance sensor board can be soldered onto this adapter board via male header pins, and this adapter board has pins that plug into the bottom of the main PCB.
 
 **Schematic File**
+
 KiCad schematic file that shows the electrical connections of the reflectance sensor adapter board. 
 
 **Layout File**
+
 KiCad layout file that shows how the components are placed and routed on the reflectance sensor adapter board.
 
 **Bill of Materials Files**
+
 BOM.xlsx contains a list of all the parts needed for to add the reflectance sensor as a feature to the robot.
-Digikey_Parts_List.xlsx is a file that can be uploaded to Digikey to select the parts needed for one copy of this board.
+Digikey_Parts_List.xlsx can be uploaded to Digikey to select the parts needed for one copy of this board.
 
 ## How to use this repository
 1. Copy the repository locally to your computer
