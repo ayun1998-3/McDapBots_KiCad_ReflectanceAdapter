@@ -26,6 +26,10 @@ KiCad schematic file that shows the electrical connections of the reflectance se
 **Layout File**
 KiCad layout file that shows how the components are placed and routed on the reflectance sensor adapter board.
 
+**Bill of Materials Files**
+BOM.xlsx contains a list of all the parts needed for to add the reflectance sensor as a feature to the robot.
+Digikey_Parts_List.xlsx is a file that can be uploaded to Digikey to select the parts needed for one copy of this board.
+
 ## How to use this repository
 1. Copy the repository locally to your computer
 2. Using KiCad 8.0 (or higher version) open the file `Reflectance_Adapter.kicad_pro"`
